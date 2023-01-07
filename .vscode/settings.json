@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "list": "cpp",
+        "deque": "cpp",
+        "queue": "cpp",
+        "set": "cpp",
+        "xtree": "cpp",
+        "utility": "cpp",
+        "ios": "cpp",
+        "unordered_set": "cpp",
+        "ostream": "cpp",
+        "numeric": "cpp",
+        "iostream": "cpp"
+    }
+}
